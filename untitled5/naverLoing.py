@@ -43,6 +43,8 @@ import time
 # # driver.find_element_by_xpath('//*[@id="frmNIDLogin"]/fieldset/input').click()
 # exit(0)
 
+# 오 이거 좋은거 같은데??
+
 ########
 
 ####################### yes 24 로그인
